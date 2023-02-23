@@ -11,3 +11,4 @@ add_compile_options(/W4 /WX)
 
 add_executable(01-hello 01/hello.c)
 add_executable(02-swap 02/swap.c 02/swap_test.c)
+add_executable(02-static 02/static.c)
